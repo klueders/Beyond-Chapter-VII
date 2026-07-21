@@ -1,0 +1,15 @@
+.venv/
+figures/.uvr/
+figures/.vscode/
+figures/.Rhistory
+figures/.RData
+figures/.Rprofile
+figures/figures.Rproj
+data/CR-UNSC_2024-05-19_ALL_CSV_FULL.csv
+data/full_data.pkl
+data_res.pkl
+full_data.pkl
+full_data_vars.pkl
+subset_demand_request_decide.pkl
+.DS_Store
+.Rproj.user

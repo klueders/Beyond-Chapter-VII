@@ -1,0 +1,6 @@
+[project]
+name = "figures"
+
+[dependencies]
+ggvenn = "*"
+tidyverse = "*"

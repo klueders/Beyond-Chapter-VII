@@ -1,0 +1,161 @@
+,id,type,phrase
+1,i1,op,Acknowledges
+2,i2,op,Adopts
+3,i3,op,Advises
+4,i4,op,Affirms
+5,i5,op,Appeals
+6,i6,op,Appreciates
+7,i7,op,Approves
+8,i8,op,Authorizes
+9,i9,op,Calls
+10,i10,op,Commends
+11,i11,op,Concurs
+12,i12,op,Condemns
+13,i13,op,Confirms
+14,i14,op,Congratulates
+15,i15,op,Considers
+16,i16,op,Decides
+17,i17,op,Declares
+18,i18,op,Demands
+19,i19,op,Deplores
+20,i20,op,Designates
+21,i21,op,Directs
+22,i22,op,Draws the attention
+23,i23,op,Emphasizes
+24,i24,op,Encourages
+25,i25,op,Endorses
+26,i26,op,Expresses
+27,i27,op,Has resolved
+28,i28,op,Instructs
+29,i29,op,Introduces
+30,i30,op,Invites
+31,i31,op,Notes
+32,i32,op,Notes with satisfaction
+33,i33,op,Proclaims
+34,i34,op,Reaffirms
+35,i35,op,Recalls
+36,i36,op,Recognizes
+37,i37,op,Recommends
+38,i38,op,Regrets
+39,i39,op,Reiterates
+40,i40,op,Reminds
+41,i41,op,Renews its appeal
+42,i42,op,Repeats
+43,i43,op,Requests
+44,i44,op,Requires
+45,i45,op,Stresses
+46,i46,op,Suggests
+47,i47,op,Supports
+48,i48,op,Takes note of
+49,i49,op,Transmits
+50,i50,op,Trusts
+51,i51,op,Underlines
+52,i52,op,Underscores
+53,i53,op,Urges
+54,i54,op,Welcomes
+55,i55,pp,Acknowledging
+56,i56,pp,Acting
+57,i57,pp,Affirming
+58,i58,pp,Alarmed
+59,i59,pp,Anxious
+60,i60,pp,Appreciating
+61,i61,pp,Approving
+62,i62,pp,Aware of
+63,i63,pp,Bearing in mind
+64,i64,pp,Believing
+69,i69,pp,Considering
+70,i70,pp,Contemplating
+71,i71,pp,Convinced
+72,i72,pp,Declaring
+73,i73,pp,Deploring
+74,i74,pp,Desiring
+75,i75,pp,Determined
+76,i76,pp,Emphasizing
+77,i77,pp,Encouraged
+78,i78,pp,Expecting
+79,i79,pp,Expressing
+80,i80,pp,Fulfilling
+81,i81,pp,Guided
+82,i82,pp,Mindful
+83,i83,pp,Noting
+84,i84,pp,Observing
+85,i85,pp,Reaffirming
+86,i86,pp,Realizing
+87,i87,pp,Recalling
+88,i88,pp,Recognizing
+89,i89,pp,Referring
+90,i90,pp,Regretting
+91,i91,pp,Reiterating
+92,i92,pp,Reminding
+93,i93,pp,Seeking
+94,i94,pp,Seized
+95,i95,pp,Stressing
+96,i96,pp,Taking
+97,i97,pp,Underlining
+98,i98,pp,Viewing
+99,i99,pp,Welcoming
+100,i100,pp,Commending
+101,i101,pp,Condemning
+102,i102,pp,Determining
+103,i103,pp,Forwards
+104,i104,pp,Agreeing
+105,i105,pp,Calling
+106,i106,op,Determines
+107,i107,pp,Echoing
+108,i108,pp,Encouraging
+109,i109,pp,Endorsing
+110,i110,op,Expresses
+111,i111,pp,Expressing
+112,i112,op,Extends
+113,i113,pp,Urging
+114,i114,pp,Underscoring
+115,i115,op,Undertakes
+116,i116,pp,Willing to continue
+117,i117,op,Takes note
+118,i118,pp,Supporting
+119,i119,pp,Responding
+120,i120,pp,Resolving
+121,i121,op,Resolves
+122,i122,op,Resolved
+123,i123,op,Renews
+124,i124,pp,Renewing
+125,i125,pp,Remaining fully committed
+126,i126,pp,Remembering
+127,i127,pp,Recognising
+128,i128,op,Recognises
+129,i129,op,Pays tribute
+130,i130,pp,Paying tribute
+131,i131,op,Looks forward
+132,i132,op,Maintains the authorized
+133,i133,pp,Looking forward
+134,i134,op,Highlights
+135,i135,pp,Highlighting
+136,i136,pp,Distressed
+137,i137,pp,Emphasising
+138,i138,op,Emphasises
+139,i139,pp,Demanding
+140,i140,pp,Concurring
+141,i141,op,Authorises
+142,i142,op,Agrees
+143,i143,pp,Disturbed
+144,i144,pp,Grieved
+145,i145,pp,Honouring
+146,i146,op,Appoints
+147,i147,pp,Applauding
+148,i148,op,Censures
+149,i149,op,Continues
+150,i150,pp,Committed
+151,i151,op,Clarifies
+152,i152,op,Desires
+153,i153,op,Insists
+154,i154,pp,Indignant
+155,i155,op,Accepts
+156,i156,op,Announces its intent
+157,i157,op,Appallend
+158,i158,op,Anticipating
+159,i159,pp,Appalled
+160,i160,op,Asks
+161,i161,pp,Appreciative
+162,i162,pp,Having
+163,i163,pp,Further reaffirming
+164,i164,pp,Strongly condemning
