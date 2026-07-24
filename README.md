@@ -114,7 +114,7 @@ This step performs the descriptive analysis.
 
 ### Step 4 – `4_llm_inference.ipynb`
 
-This step uses ChatGPT to extract inforamtion on the actor in selected paragraphs.
+This step uses ChatGPT to extract information on the actor in selected paragraphs.
 
 ### Step 5 – `5_analyse_actor.ipynb`
 
