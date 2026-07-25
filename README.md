@@ -50,7 +50,8 @@ The project is based on the dataset **Corpus of Resolutions: UN Security Council
 
 To keep the repository compact, only the essential raw data files are included.
 Larger generated files (stored as Python pickle files) are intentionally omitted.
-They can be recreated by running the code.
+They can be recreated by running the code. The csv-file `CR-UNSC_2024-05-19_ALL_CSV_FULL.csv`
+comes from Fobbe et al. (see above).
 
 ```
 .
