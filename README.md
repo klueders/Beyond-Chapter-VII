@@ -118,7 +118,7 @@ This step uses ChatGPT to extract information on the actor in selected paragraph
 
 ### Step 5 – `5_analyse_actor.ipynb`
 
-This step finally analyses the data annotated by the LLM.
+This step analyses the data annotated by the LLM.
 
 ### Step 6 - figures
 
@@ -153,4 +153,4 @@ uvr sync
 
 As highlighted in the paper, this research employed a Large Language Model (LLM) to extract information from a series of text documents. Specifically, the task involved identifying which actors were addressed in selected clauses of United Nations Security Council resolutions. The extracted data were subsequently analyzed in the paper (see Section 4.3.2).
 
-Additional LLM-based tools were used for editorial purposes, including: correcting spelling and grammar, improving language (readability and flow), and translating text segments. Tools employed for these tasks included Grammarly, DeepL, ChatGPT-4, and ChatGPT-5. ChatGPT was also used as an aid during the development, debugging, and programming process, as well as the documentation of the repository. The authors have manually reviewed any text edits suggested by LLM-based tools and bear sole responsibility for the integrity and accuracy of the final text.
+Additional LLM-based tools were used for editorial purposes, including: correcting spelling and grammar, improving language (readability and flow), and translating text segments. Tools employed for these tasks included Grammarly, DeepL, ChatGPT-4, and ChatGPT-5. The authors have manually reviewed any text edits suggested by LLM-based tools and bear sole responsibility for the integrity and accuracy of the final text. ChatGPT was also used as an aid during the development, debugging, and programming process, as well as the documentation of the repository.
